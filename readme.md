@@ -3,7 +3,7 @@
 
 ## Description
 
-Built a business webpage with some features using Bootstrap and fslightbox.js
+Built a responsive business webpage with some features using Bootstrap and fslightbox.js
 
 ### Topics are to be covered;
 
